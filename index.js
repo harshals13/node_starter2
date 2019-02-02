@@ -1,0 +1,23 @@
+/*
+ * Primary file for API
+ *
+ */
+
+// Dependencies
+var server = require('./lib/server');
+
+// Declare the app
+var app = {};
+
+// Init function
+app.init = function(){
+
+// Start the server
+  server.init();
+};
+
+// Self executing
+app.init();
+
+// Exporting the app
+module.exports = app;
