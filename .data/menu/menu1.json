@@ -1,0 +1,32 @@
+[
+    {
+        "0": {
+            "name": "Pineapple Pizza",
+            "price": "320"
+        },
+        "1": {
+            "name": "Pepparoni Pizza",
+            "price": "400"
+        },
+        "2": {
+            "name": "Tandoori Pizza",
+            "price": "500"
+        },
+        "3": {
+            "name": "Margherita",
+            "price": "120"
+        },
+        "4": {
+            "name": "Pan Pizza",
+            "price": "350"
+        },
+        "5": {
+            "name": "Olive Pizza",
+            "price": "170"
+        },
+        "6": {
+            "name": "Grill Chicken Pizza",
+            "price": "480"
+        }
+    }
+]
