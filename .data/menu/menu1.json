@@ -1,32 +1,39 @@
 [
-    {
-        "0": {
+    
+        {
+            "id": "00",
             "name": "Pineapple Pizza",
             "price": "320"
         },
-        "1": {
+        {
+            "id": "01",
             "name": "Pepparoni Pizza",
             "price": "400"
         },
-        "2": {
+        {
+            "id": "02",
             "name": "Tandoori Pizza",
             "price": "500"
         },
-        "3": {
+        {
+            "id": "03",
             "name": "Margherita",
             "price": "120"
         },
-        "4": {
+        {
+            "id": "04",
             "name": "Pan Pizza",
             "price": "350"
         },
-        "5": {
+        {
+            "id": "05",
             "name": "Olive Pizza",
             "price": "170"
         },
-        "6": {
-            "name": "Grill Chicken Pizza",
+        {
+            "id": "06",
+            "name": "Grilled Chicken Pizza",
             "price": "480"
         }
-    }
+    
 ]
